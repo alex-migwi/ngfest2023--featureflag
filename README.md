@@ -1,6 +1,11 @@
-# Ngfest2023
+# Ngfest2023 Feature Flags Demo using Launch Darkly 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
+You'll need to sign up for a free trial account on launchdarkly.com to try out their Javascript Client SDK
+
+## Node module install
+
+Run for example `npm install` to install required node modules if using npm as your package manager.
 
 ## Development server
 
