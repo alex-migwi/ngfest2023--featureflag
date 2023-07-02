@@ -11,7 +11,7 @@ import { FeatureFlagService } from './services/feature-flag.service';
 })
 export class AppComponent {
 
-  title = 'ngfest2023';
+  title = 'NGFestival2023';
 
   flagIsOn: boolean = false;
 
