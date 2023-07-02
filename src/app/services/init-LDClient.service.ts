@@ -27,7 +27,7 @@ export class InitLDClient {
 
 
   initialize() {
-    this.ldClient = LaunchDarkly.initialize('649f7b1da1b793131784c00b', this.context);
+    this.ldClient = LaunchDarkly.initialize('add your own client id here', this.context);
 
     // using Promise then() and catch() handlers
     return this.ldClient.waitForInitialization().then(() => {
